@@ -261,7 +261,6 @@ jobs:
           - FullRelease
           - FullReleaseNoGcm
           - FullAppleEmojiRelease
-          - FullAppleEmojiReleaseNoGcm
           - MiniRelease
           - MiniReleaseNoGcm
     steps:
