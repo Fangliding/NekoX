@@ -302,6 +302,9 @@ android {
         full {
             manifestPlaceholders = [is_full_version: "true"]
         }
+        fullAppleEmoji {
+            manifestPlaceholders = [is_full_version: "true"]
+        }
         miniPlay {
             versionNameSuffix "-play"
             versionCode verCode - 2
