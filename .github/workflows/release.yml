@@ -260,6 +260,8 @@ jobs:
         flavor:
           - FullRelease
           - FullReleaseNoGcm
+          - FullAppleEmojiRelease
+          - FullAppleEmojiReleaseNoGcm
           - MiniRelease
           - MiniReleaseNoGcm
     steps:
